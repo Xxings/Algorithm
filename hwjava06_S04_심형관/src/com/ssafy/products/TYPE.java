@@ -1,0 +1,12 @@
+package com.ssafy.products;
+
+public enum TYPE {
+	TV,
+	REFRIGERATOR,
+	SMARTPHONE,
+	TV_STOCK,
+	TV_INCH,
+	REFRIGERATOR_STOCK,
+	REFRIGERATOR_COLUMN,
+	SMARTPHONE_STOCK
+}
