@@ -3,7 +3,7 @@ package pro.Programers.Solution;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Programers_0905 {
+public class Programers_42889_0905 {
 	public static void main(String[] args) {
 		Solution test = new Solution();
 //		int N = 5;
